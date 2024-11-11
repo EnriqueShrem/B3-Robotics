@@ -6,7 +6,6 @@ function T = DHTransformationMat(theta, alpha, d, a)
         0 0 0 1]
 end
 
-
 syms theta1 theta2 theta3 theta4;
 syms d0 L0 L1 L2 L3;
 
