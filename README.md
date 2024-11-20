@@ -5,7 +5,7 @@ In this repository we cover the contents about the final project of the Introduc
 
 Members: Jose Flores, Danna Lopez, Facundo Rolon, Enrique Shrem
 
-Robot Type: Serial Manipulator, 4 DoF (4 Rotational Joins)
+Robot Type: 4 DoF Robot (2 rotationals, 2 prismatics)
 
 ## Project Contents
 ### [Mathematical Models](Mathematical%20Models)
