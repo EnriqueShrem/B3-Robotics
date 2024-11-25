@@ -12,7 +12,7 @@ Robot Type: Modified SCARA, 5 DoF (2 Revolutes + 2 Prismatics + End-Effector)
 Robot Application: Laboratories and Research
 
 
-Main Tasks: Sorting and Handeling of Test Tubes and Flasks
+Main Tasks: Pick'n Place and Handeling of Test Tubes and Flasks
 
 
 ## Project Contents
