@@ -3,7 +3,11 @@ In this repository we cover the contents about the final project of the Introduc
 
 ## Project Details
 
-Members: Jose Flores, Danna Lopez, Facundo Rolon, Enrique Shrem
+Members: 
+- Jose Flores
+- Danna Lopez
+- Facundo Rolon
+- Enrique Shrem
 
 Robot Type: Modified SCARA, 5 DoF (2 Revolutes + 2 Prismatics + End-Effector).
 
