@@ -6,4 +6,4 @@
 
 [4] MathWorks, Plan and Execute Task- and Joint-Space Trajectories Using Kinova Gen3 Manipulator, The MathWorks, Inc., 2024. [Online]. Available: https://www.mathworks.com/help/robotics/ug/plan-and-execute-trajectory-kinova-gen3.html
 
-[5] MathWorks, Robot Manipulation, Part 1: Kinematics, The MathWorks, Inc., Year. [Online]. Available:https://blogs.mathworks.com/student-lounge/2018/04/11/robot-manipulation-part-1-kinematics/?s_eid=PSM_15028
+[5] MathWorks, Robot Manipulation, Part 1: Kinematics, The MathWorks, Inc., Year. [Online]. Available: https://blogs.mathworks.com/student-lounge/2018/04/11/robot-manipulation-part-1-kinematics/?s_eid=PSM_15028
