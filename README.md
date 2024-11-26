@@ -1,5 +1,5 @@
 # Robotics Final Project - Group B3
-In this repository we cover the contents about the final project of the Introduction to Robotics course.
+In this repository we cover the contents about the final project of the Introduction to Robotics course. See also: https://github.com/EnriqueShrem/B3-RoboticsLab.
 
 ## Project Details
 
