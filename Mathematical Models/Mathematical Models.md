@@ -4,6 +4,7 @@
   <img src="Robot%20Model.jpeg" alt="Robot Model (Simulink)"style="width:90%; max-width:600px, height:90%;">
 </p>
 ### Rigid Body Tree (MATLAB) 
+```
 robot = importrobot('Assembly para MATLAB/urdf/Assembly para MATLAB.urdf')
 
  % Add gravity
@@ -18,8 +19,9 @@ setFixedTransform(eeBody.Joint,trvec2tform([eeOffset 0 0]));
 addBody(robot,eeBody,'Link 4 PRISM');
 homeConfig = robot.homeConfiguration
 show(robot)
-## Forward Kinematics (MATLAB)
 
+## Forward Kinematics (MATLAB)
+```
 % Forward Kinematics
 % General DH Transformation Matrix
 function T = DHTransformationMat(a, alpha, d, theta)
@@ -53,7 +55,7 @@ T4 = T3 * T34;             % Joint 4
 T5 = T4 * T45              % Joint 5 (End Effector)
 
 T5 = simplify(T5)
-
+```
 ## Inverse Kinematics (Simulink)
 
 <p align="center">
