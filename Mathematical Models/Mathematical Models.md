@@ -1,4 +1,4 @@
-# Mathematical Models
+# Mathematical Models (Simulink)
 ## Robot Model
 <p align="center">
   <img src="Robot%20Model.jpeg" alt="Robot Model (Simulink)"style="width:90%; max-width:600px, height:90%;">
@@ -29,7 +29,14 @@ show(robot)
 </p>
 
 
-## Forward Kinematics (MATLAB)
+## Forward Kinematics
+###Simulink
+
+<p align="center">
+  <img src="Forward%20Kinematics%20Simulink.jpeg" alt="Forward Kinematics (Simulink)"style="width:90%; max-width:600px, height:90%;">
+</p>
+
+### MATLAB
 
 ```
 % Forward Kinematics
@@ -66,8 +73,21 @@ T5 = T4 * T45              % Joint 5 (End Effector)
 
 T5 = simplify(T5)
 ```
+
+
 ## Inverse Kinematics (Simulink)
 
 <p align="center">
   <img src="Inverse%20Kinematics%20Simulink.jpeg" alt="Inverse Kinematics (Simulink)"style="width:90%; max-width:600px, height:90%;">
+</p>
+
+## Jacobian
+
+<p align="center">
+  <img src="Jacobian%20Simulink.jpeg" alt="Inverse Kinematics (Simulink)"style="width:50%; max-width:600px, height:50%;">
+</p>
+
+## Trayectory
+<p align="center">
+  <img src="Trayectory%20Simulink.jpeg" alt="Inverse Kinematics (Simulink)"style="width:50%; max-width:600px, height:50%;">
 </p>
