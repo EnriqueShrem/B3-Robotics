@@ -1,7 +1,7 @@
 # Mathematical Models
 ## Robot Model (Simulink)
 <p align="center">
-  <img src="Inverse%20Simulink.jpeg" alt="Inverse Kinematics (Simulink)"style="width:90%; max-width:600px, height:90%;">
+  <img src="Robot%20Model.jpeg" alt="Robot Model (Simulink)"style="width:90%; max-width:600px, height:90%;">
 </p>
 
 
@@ -46,5 +46,5 @@ T5 = simplify(T5)
 ## Inverse Kinematics (Simulink)
 
 <p align="center">
-  <img src="Inverse%20Simulink.jpeg" alt="Inverse Kinematics (Simulink)"style="width:90%; max-width:600px, height:90%;">
+  <img src="Inverse%20Kinematics%20Simulink.jpeg" alt="Inverse Kinematics (Simulink)"style="width:90%; max-width:600px, height:90%;">
 </p>
