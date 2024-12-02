@@ -39,5 +39,5 @@ T5 = simplify(T5)
 ## Inverse Kinematics (Simulink)
 
 <p align="center">
-  <img src="Mathematical%20Models/Inverse%20Simulink.jpeg" alt="Inverse Kinematics (Simulink)" height = %30 h="600">
+  <img src="Mathematical%20Models/Inverse%20Simulink.jpeg" alt="Inverse Kinematics (Simulink)"style="width:50%; max-width:600px, height:50%;">
 </p>
