@@ -1,4 +1,11 @@
 # Mathematical Models
+## Robot Model (Simulink)
+<p align="center">
+  <img src="Inverse%20Simulink.jpeg" alt="Inverse Kinematics (Simulink)"style="width:90%; max-width:600px, height:90%;">
+</p>
+
+
+
 ## Forward Kinematics (MATLAB)
 ```
 % Forward Kinematics
