@@ -37,3 +37,7 @@ T5 = simplify(T5)
 ```
 
 ## Inverse Kinematics (Simulink)
+
+<p align="center">
+  <img src="Mathematical%20Models/Inverse%20Simulink.jpeg" alt=blank height = "1000" width="600">
+</p>
