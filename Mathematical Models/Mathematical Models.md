@@ -5,6 +5,7 @@
   <img src="Robot%20Model.jpeg" alt="Robot Model (Simulink)"style="width:90%; max-width:600px, height:90%;">
 </p>
 ### Rigid Body Tree (MATLAB) 
+
 ```
 robot = importrobot('Assembly para MATLAB/urdf/Assembly para MATLAB.urdf')
 
@@ -18,16 +19,18 @@ eeBody.Mass = 0;
 eeBody.Inertia = [0 0 0 0 0 0];
 setFixedTransform(eeBody.Joint,trvec2tform([eeOffset 0 0]));
 addBody(robot,eeBody,'Link 4 PRISM');
+
 homeConfig = robot.homeConfiguration
-show(robot) 
+show(robot)
 ```
-```
+
 <p align="center">
   <img src="Robot%20Tree.jpeg" alt="Robot Tree (MATLAB)"style="width:40%; max-width:600px, height:40%;">
 </p>
 
 
 ## Forward Kinematics (MATLAB)
+
 ```
 % Forward Kinematics
 % General DH Transformation Matrix
