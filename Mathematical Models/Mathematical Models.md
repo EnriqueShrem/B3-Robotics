@@ -19,6 +19,10 @@ setFixedTransform(eeBody.Joint,trvec2tform([eeOffset 0 0]));
 addBody(robot,eeBody,'Link 4 PRISM');
 homeConfig = robot.homeConfiguration
 show(robot) 
+<p align="center">
+  <img src="Robot%20Tree" alt="Robot Tree (MATLAB)"style="width:90%; max-width:600px, height:90%;">
+</p>
+
 
 ## Forward Kinematics (MATLAB)
 ```
