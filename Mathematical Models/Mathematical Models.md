@@ -23,7 +23,7 @@ show(robot)
 ```
 ```
 <p align="center">
-  <img src="Robot%20Tree.jpeg" alt="Robot Tree (MATLAB)"style="width:50%; max-width:600px, height:50%;">
+  <img src="Robot%20Tree.jpeg" alt="Robot Tree (MATLAB)"style="width:40%; max-width:600px, height:40%;">
 </p>
 
 
