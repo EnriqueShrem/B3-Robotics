@@ -30,7 +30,7 @@ show(robot)
 
 
 ## Forward Kinematics
-###Simulink
+### Simulink
 
 <p align="center">
   <img src="Forward%20Kinematics%20Simulink.jpeg" alt="Forward Kinematics (Simulink)"style="width:90%; max-width:600px, height:90%;">
