@@ -16,7 +16,7 @@ Main Tasks: Pick'n Place and Handeling of Test Tubes and Flasks
 
 
 ## Project Contents
-### [Mathematical Models](Mathematical%20Models)
+### [Mathematical Models](Mathematical%20Models.md)
 ### [Design & CAD Files](Design%20&%20CAD%20Files)
 ### [Analyses & Results](Analyses%20&%20Results)
 ### [References](References.md)
