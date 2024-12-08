@@ -4,7 +4,7 @@
   <img src="Robot%20Model.jpeg" alt="Robot Model (Simulink)"style="width:90%; max-width:600px, height:90%;">
 </p>
 
-### Assembly and Coordinates
+### Assembly and Movement
 
 ```
 robot = importrobot('Assembly para MATLAB/urdf/Assembly para MATLAB.urdf')
