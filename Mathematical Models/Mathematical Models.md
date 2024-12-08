@@ -6,27 +6,14 @@
 
 ### Assembly and Movement
 
-```
-robot = importrobot('Assembly para MATLAB/urdf/Assembly para MATLAB.urdf')
-
- % Add gravity
-robot.Gravity = [0 0 -9.80665];
-
-% Add another massless coordinate frame for the end effector
-eeOffset = 0.12;
-eeBody = robotics.RigidBody('end_effector');
-eeBody.Mass = 0;
-eeBody.Inertia = [0 0 0 0 0 0];
-setFixedTransform(eeBody.Joint,trvec2tform([eeOffset 0 0]));
-addBody(robot,eeBody,'Link 4 PRISM');
-
-homeConfig = robot.homeConfiguration
-show(robot)
-```
 
 <p align="center">
   <img src="Robot%20Tree.jpeg" alt="Robot Tree (MATLAB)"style="width:40%; max-width:600px, height:40%;">
 </p>
+<p align="center">
+  <img src="Robot%20Movement.png" alt="Robot Tree (MATLAB)"style="width:40%; max-width:600px, height:40%;">
+</p>
+
 
 
 ## Forward Kinematics
