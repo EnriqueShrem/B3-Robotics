@@ -11,7 +11,7 @@
   <img src="Robot%20Tree.jpeg" alt="Robot Tree (MATLAB)"style="width:40%; max-width:600px, height:40%;">
 </p>
 <p align="center">
-  <img src="Robot%20Movement.png" alt="Robot Tree (MATLAB)"style="width:40%; max-width:600px, height:40%;">
+  <img src="Robot%20Movement.png" alt="Robot Tree (MATLAB)"style="width:70%; max-width:600px, height:70%;">
 </p>
 
 
