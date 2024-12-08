@@ -93,5 +93,5 @@ T5 = simplify(T5)
 </p>
 ## Robot's Reach / Range of Motion
 <p align="center">
-  <img src="Robot%20Reach.jpeg" alt="Inverse Kinematics (Simulink)"style="width:50%; max-width:600px, height:50%;">
+  <img src="Robot%20Reach.png" alt="Inverse Kinematics (Simulink)"style="width:50%; max-width:600px, height:50%;">
 </p>
