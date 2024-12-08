@@ -4,7 +4,7 @@
   <img src="Robot%20Model.jpeg" alt="Robot Model (Simulink)"style="width:90%; max-width:600px, height:90%;">
 </p>
 
-### Rigid Body Tree (MATLAB) 
+### Assembly and Coordinates
 
 ```
 robot = importrobot('Assembly para MATLAB/urdf/Assembly para MATLAB.urdf')
@@ -90,4 +90,8 @@ T5 = simplify(T5)
 ## Trayectory
 <p align="center">
   <img src="Trayectory%20Simulink.jpeg" alt="Inverse Kinematics (Simulink)"style="width:50%; max-width:600px, height:50%;">
+</p>
+## Robot's Reach / Range of Motion
+<p align="center">
+  <img src="Robot%20Reach.jpeg" alt="Inverse Kinematics (Simulink)"style="width:50%; max-width:600px, height:50%;">
 </p>
