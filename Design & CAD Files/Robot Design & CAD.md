@@ -15,7 +15,7 @@ Links:
 - Link 1: Contributes in range and allows movement normal and away from the base z axis direction.
 - Link 2: Allows the movement towards the base and contributes to the movement normal and away from the base z axis direction.
 - Link 3: The link rotates holding link 4 and limiting its motion, contributes to the range normal and away from the base z axis direction.
-- Link 4: Allows and sets the maximun range at the base z axis direction, also rotates for manipulability.
+- Link 4: Allows and sets the maximun range at the base z axis direction, also rotates for manipulability, sets the range normal and away from the base z and x axes.
 - EE (end effector): Attached to the end of link 4, can be defined and adapted for a particullar use.
 
 
