@@ -12,5 +12,5 @@ Isometric
   <img src="../Assets/front.jpeg" style="width:30%; height:30%;">
 </p>
 <p align="left">
-  <img src="../Assets/side.jpeg" style="width:30%; height:20%;">
+  <img src="../Assets/side.jpeg" style="width:10%; height:10%;">
 </p>
