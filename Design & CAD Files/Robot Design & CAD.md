@@ -24,6 +24,8 @@ Isometric View of Assembly:
 <p align="center">
   <img src="Design%20Gallery/isometric.jpeg" style="width:30%; height:30%;">
 </p>
+
+Assembly Drawing:
 <p align="center">
   <img src="Design%20Gallery/drawing.jpeg" style="width:80%; height:80%;">
 </p>
