@@ -25,11 +25,11 @@ Isometric View of Assembly:
   <img src="Design%20Gallery/isometric.jpeg" style="width:30%; height:30%;">
 </p>
 
-[See Design Gallery]("Design%20Gallery")
+[See Design Gallery](Design%20Gallery)
 
 Assembly Drawing:
 <p align="center">
   <img src="Design%20Gallery/drawing.jpeg" style="width:80%; height:80%;">
 </p>
 
-[See CAD Files]("CAD%20Files")
+[See CAD Files](CAD%20Files)
