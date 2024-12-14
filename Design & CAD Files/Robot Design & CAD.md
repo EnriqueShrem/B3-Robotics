@@ -2,16 +2,20 @@
 The robot design has been defined analytically, considering the real applications for which was developed. 
 
 Kinematics:
+Joints:
+- Joint 0: fixed.
+- Joint 1: revolute.
+- Joint 2: revolute.
+- Joint 3: revolute.
+- Joint 4: revolute.
+- Joint 5: prismatic
 
-Joint 0: fixed. Link 0 (base link): the base link does not add any limitation for the robot movement, but contributes to the vertical range.
-
-Joint 1: revolute. Link 1: contributes to the range and allows the movement normal and away from the base z axis.
-
-Joint 2: revolute. Link 2: Allows the movement towards the base for which as large as the link 1 would be optimal.
-
-Joint 3: revolute. Link 3: The link rotates holding link 4 and limiting its motion.
-
-Joint 4: primatic. Link 4: allows and sets the maximun range at the vertical direction.
+Links:
+- Link 0 (base link): the base link does not add any limitation for the robot movement, but contributes to the vertical (z axis of base) range.
+- Link 1: contributes to the range and allows movement normal and away from the base z axis direction.
+- Link 2: Allows the movement towards the base for which as large as the link 1 would be optimal.
+- Link 3: The link rotates holding link 4 and limiting its motion.
+- Link 4: allows and sets the maximun range at the vertical direction.
 
 
 Isometric
