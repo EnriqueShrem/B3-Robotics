@@ -12,7 +12,7 @@ Joints:
 
 Links:
 - Link 0 (base link): the base link does not add any limitation for the robot movement, but contributes to the vertical (z axis of base) range.
-- Link 1: contributes to the range and allows movement normal and away from the base z axis direction.
+- Link 1: contributes in range and allows movement normal and away from the base z axis direction.
 - Link 2: Allows the movement towards the base for which as large as the link 1 would be optimal.
 - Link 3: The link rotates holding link 4 and limiting its motion.
 - Link 4: allows and sets the maximun range at the vertical direction.
