@@ -16,9 +16,23 @@ The bending stress 𝜎 must not exceed the yield strength of the link material:
 ## Robot's Reach / Range of Motion
 The range of motion of the end effector, also known as robot's reach, can be found analytically but also demonstrated using software such as MATLAB:
 <p align="center">
-  <img src="Robot%20Reach.png" alt="Inverse Kinematics (Simulink)"style="width:70%; max-width:600px, height:70%;">
+  <img src="reach.png" alt="Inverse Kinematics (Simulink)"style="width:70%; max-width:600px, height:70%;">
+</p>
+<p align="center">
+  <img src="reachtop.png" alt="Inverse Kinematics (Simulink)"style="width:70%; max-width:600px, height:70%;">
+</p>
+<p align="center">
+  <img src="reachfront.png" alt="Inverse Kinematics (Simulink)"style="width:70%; max-width:600px, height:70%;">
 </p>
 For this demonstration a sample of 10000 random robot configurations has been used to plot the end effector position at each of these configurations.
+
+
+## Simulation Results
+<p align="center">
+<a  href="https://youtu.be/6YlWMIfZ7P8" target="_blank">
+    <img src="https://img.youtube.com/vi/6YlWMIfZ7P8/0.jpg" alt="Simulation Video" style="width:40%; max-width:600px, height:30%;">
+</a>
+</p>
 
 ## Kinematic Graphs
 ### Position Trajectory and Forward Kinematics
@@ -31,9 +45,4 @@ For this demonstration a sample of 10000 random robot configurations has been us
   <img src="Velocity.jpeg" alt="Velocity Trajectory and Jacobian" height = "600" width="600">
 </p>
 
-## Simulation Results
-<p align="center">
-<a  href="https://youtu.be/6YlWMIfZ7P8" target="_blank">
-    <img src="https://img.youtube.com/vi/6YlWMIfZ7P8/0.jpg" alt="Simulation Video" style="width:40%; max-width:600px, height:30%;">
-</a>
-</p>
+
