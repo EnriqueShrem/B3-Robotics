@@ -35,6 +35,13 @@ Assembly Drawing:
 [See CAD Files](CAD%20Files)
 
 Robot Movement:
+
+<p align="center">
+  <img src="Design%20Gallery/topangles.png" style="width:50%; height:50%;">
+</p>
+<p align="center">
+  <img src="Design%20Gallery/sideangles.png" style="width:50%; height:50%;">
+</p>
 <p align="center">
   <img src="Design%20Gallery/robotmov1.png" style="width:50%; height:50%;">
 </p>
