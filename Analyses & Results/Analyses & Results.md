@@ -16,12 +16,12 @@ The bending stress 𝜎 must not exceed the yield strength of the link material:
 ## Kinematic Graphs
 ### Position Trajectory and Forward Kinematics
 <p align="center">
-  <img src="Analyses%20&%20Results/Position.jpeg" alt="Position Trajectory and Forward Kinematics" height = "1000" width="600">
+  <img src="Position.jpeg" alt="Position Trajectory and Forward Kinematics" height = "600" width="600">
 </p>
 
 ### Velocity Trajectory and Jacobian
 <p align="center">
-  <img src="Analyses & Results/Velocity.jpeg" alt="Velocity Trajectory and Jacobian" height = "1000" width="600">
+  <img src="Velocity.jpeg" alt="Velocity Trajectory and Jacobian" height = "600" width="600">
 </p>
 
 ## Simulation Results
