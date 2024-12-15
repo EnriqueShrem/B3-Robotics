@@ -1,7 +1,7 @@
 # Robot Design & CAD
 The robot design has been defined analytically, considering the real applications for which was developed. 
 
-Kinematics:  
+## Kinematics:  
 Joints:
 - Joint 0: Fixed.
 - Joint 1: Revolute.
@@ -19,7 +19,7 @@ Links:
 - EE (end effector): Attached to the end of link 4, can be defined and adapted for a particullar use.
 
 
-Isometric View of Assembly:
+## Isometric View of Assembly:
 
 <p align="center">
   <img src="Design%20Gallery/isometric.jpeg" style="width:30%; height:30%;">
@@ -27,21 +27,23 @@ Isometric View of Assembly:
 
 [See Design Gallery](Design%20Gallery)
 
-Assembly Drawing:
+## Assembly Drawing:
 <p align="center">
   <img src="Design%20Gallery/drawing.jpeg" style="width:80%; height:80%;">
 </p>
 
 [See CAD Files](CAD%20Files)
 
-Robot Movement:
-
+## Robot Movement:
+### Defined limits:
 <p align="center">
   <img src="Design%20Gallery/topangles.png" style="width:50%; height:50%;">
 </p>
 <p align="center">
   <img src="Design%20Gallery/sideangles.png" style="width:50%; height:50%;">
 </p>
+
+### Achieved Movement:
 <p align="center">
   <img src="Design%20Gallery/robotmov1.png" style="width:50%; height:50%;">
 </p>
