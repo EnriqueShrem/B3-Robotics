@@ -12,7 +12,7 @@ Robot Type: Modified SCARA 5 DoF, 5 Joints (4 Revolutes + 1 Prismatic)
 Robot Application: Laboratories and Research
 
 
-Main Tasks: Pick'n Place and Handeling of Test Tubes and Flasks
+Main Tasks: Pick and Place, Liquid Pouring and Handeling of Test Tubes and Flasks
 
 
 ## Project Contents
