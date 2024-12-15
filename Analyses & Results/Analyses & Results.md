@@ -28,7 +28,7 @@ For this demonstration a sample of 10000 random robot configurations has been us
 
 
 ## Simulation Results
-
+### Simulation video:
 <p align="center">
 <a  href="https://youtu.be/6YlWMIfZ7P8" target="_blank">
     <img src="https://img.youtube.com/vi/6YlWMIfZ7P8/0.jpg" alt="Simulation Video" style="width:50%; max-width:600px, height:50%;">
