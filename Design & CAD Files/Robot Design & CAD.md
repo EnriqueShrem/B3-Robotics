@@ -36,5 +36,8 @@ Assembly Drawing:
 
 Robot Movement:
 <p align="center">
-  <img src="Design%20Gallery/drawing.jpeg" style="width:80%; height:80%;">
+  <img src="robotmov2.png" style="width:50%; height:50%;">
+</p>
+<p align="center">
+  <img src="robotmov.png" style="width:50%; height:50%;">
 </p>
