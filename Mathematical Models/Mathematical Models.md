@@ -5,7 +5,7 @@
 </p>
 
 
-### Rigid body tree
+## Rigid body tree
 ```
 %Import the robot from URDF
 robot = importrobot('ROBOT_/urdf/ROBOT_.urdf');
