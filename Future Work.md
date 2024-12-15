@@ -14,3 +14,4 @@ The bending stress 𝜎 must not exceed the yield strength of the link material:
 𝜎 ≤ 𝜎yield
 
  Also this can be stimated by simulation software to use FEA method.
+
