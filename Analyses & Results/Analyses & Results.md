@@ -19,10 +19,10 @@ The range of motion of the end effector, also known as robot's reach, can be fou
   <img src="range.png" alt="Inverse Kinematics (Simulink)"style="width:60%; max-width:600px, height:60%;">
 </p>
 <p align="center">
-  <img src="rangetop.png" alt="Inverse Kinematics (Simulink)"style="width:60%; max-width:600px, height:60%;">
+  <img src="rangetop.png" alt="Inverse Kinematics (Simulink)"style="width:50%; max-width:600px, height:50%;">
 </p>
 <p align="center">
-  <img src="rangefront.png" alt="Inverse Kinematics (Simulink)"style="width:60%; max-width:600px, height:60%;">
+  <img src="rangefront.png" alt="Inverse Kinematics (Simulink)"style="width:50%; max-width:600px, height:50%;">
 </p>
 For this demonstration a sample of 10000 random robot configurations has been used to plot the end effector position at each of these configurations.
 
@@ -39,12 +39,12 @@ For this demonstration a sample of 10000 random robot configurations has been us
 ### Position Trajectory and Forward Kinematics
 
 <p align="center">
-  <img src="Position.jpeg" alt="Position Trajectory and Forward Kinematics" style="width:60%; max-width:600px, height:60%;">
+  <img src="Position.jpeg" alt="Position Trajectory and Forward Kinematics" style="width:50%; max-width:600px, height:50%;">
 </p>
 
 ### Velocity Trajectory and Jacobian
 <p align="center">
-  <img src="Velocity.jpeg" alt="Velocity Trajectory and Jacobian" style="width:60%; max-width:600px, height:60%;">
+  <img src="Velocity.jpeg" alt="Velocity Trajectory and Jacobian" style="width:50%; max-width:600px, height:50%;">
 </p>
 
 
