@@ -1,7 +1,7 @@
 ## Payload Estimation 
 Each link must be able to withstand the stresses that are imposed by the payload.  
 
-Apply the bending stress equation to each link:  
+This can be adressed by applying the bending stress equation to each link:  
 
 $$\sigma = \frac{M \cdot c}{I}$$
 
