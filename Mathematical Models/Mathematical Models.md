@@ -15,7 +15,7 @@
 ### DH Parameters
 
 <p align="center">
-  <img src="DH%20parameters.jpeg" alt="DH parameters calculation)"style="width:40%; max-width:600px, height:40%;">
+  <img src="DH%20parameters.jpeg" alt="DH parameters calculation)"style="width:50%; max-width:600px, height:50%;">
 </p>
 
 | a   | alpha  | d   | theta             |
@@ -89,6 +89,9 @@ addBody(robot,eeBody,'link4');
 showdetails(robot);
 show(robot)
 ```
+<p align="center">
+  <img src="RigidBodyTree.jpg" alt="Rigid Body Tree)"style="width:50%; max-width:600px, height:50%;">
+</p>
 
 
 ## Inverse Kinematics (Simulink)
