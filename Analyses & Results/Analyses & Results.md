@@ -27,6 +27,6 @@ The bending stress 𝜎 must not exceed the yield strength of the link material:
 ## Simulation Results
 <p align="center">
 <a  href="https://youtu.be/6YlWMIfZ7P8" target="_blank">
-    <img src="https://youtu.be/6YlWMIfZ7P8/0.jpg" alt="Simulation Video" style="width:40%; max-width:600px, height:30%;">
+    <img src="https://img.youtube.com/vi/6YlWMIfZ7P8/0.jpg" alt="Simulation Video" style="width:40%; max-width:600px, height:30%;">
 </a>
 </p>
