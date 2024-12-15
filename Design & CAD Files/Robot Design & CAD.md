@@ -33,3 +33,8 @@ Assembly Drawing:
 </p>
 
 [See CAD Files](CAD%20Files)
+
+Robot Movement:
+<p align="center">
+  <img src="Design%20Gallery/drawing.jpeg" style="width:80%; height:80%;">
+</p>
