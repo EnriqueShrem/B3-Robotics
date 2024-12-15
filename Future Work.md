@@ -18,5 +18,5 @@ $$\sigma = \frac{M \cdot c}{I}$$
 The bending stress 𝜎 must not exceed the yield strength of the link material:  
 𝜎 ≤ 𝜎yield
 
- Also this can be estimated by using a simulation software that employs FEA method for analysis.
+ Also this can be estimated by using a simulation software that employs FEA method for analysis to end up with better results.
 
