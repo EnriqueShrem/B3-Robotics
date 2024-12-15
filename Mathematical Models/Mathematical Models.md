@@ -14,7 +14,27 @@
   <img src="Robot%20Movement.png" alt="Robot Tree (MATLAB)"style="width:70%; max-width:600px, height:70%;">
 </p>
 
+### Rigid body tree
+```
+%Import the robot from URDF
+robot = importrobot('ROBOT_/urdf/ROBOT_.urdf');
 
+
+%Add gravity
+robot.Gravity = [0 0 -9.80665];
+
+%Add another massless coordinate frame for the end-effector
+eeOffset = -0.450;
+eeBody = robotics.RigidBody('EE');
+eeBody.Mass = 0;
+eeBody.Inertia = [0 0 0 0 0 0];
+setFixedTransform(eeBody.Joint,trvec2tform([eeOffset 0 0]));
+addBody(robot,eeBody,'link4');
+
+%Display robot details
+showdetails(robot);
+show(robot)
+```
 
 ## Forward Kinematics
 ### Simulink
