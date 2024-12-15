@@ -1,6 +1,8 @@
 # Robot Design & CAD
 The robot design has been defined analytically, considering the real applications for which was developed. 
 
+Defined Material: Carbon Steel
+
 ## Kinematics:  
 Joints:
 - Joint 0: Fixed.
