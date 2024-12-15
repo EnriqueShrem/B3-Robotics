@@ -80,4 +80,58 @@ grid on;
   <img src="Velocity.jpeg" alt="Velocity Trajectory and Jacobian" style="width:50%; max-width:600px, height:50%;">
 </p>
 
+## Payload Analysis
+MATLAB:
 
+```
+% Payload Calculation for SCARA Robot - Corrected Torque Contributions
+% Robot Link Properties (mass in kg)
+m0 = 2.36614;     % Link 0 mass
+m1 = 3.68669;     % Link 1 mass
+m2 = 4.65743;     % Link 2 mass
+m3 = 1.83344;     % Link 3 mass
+m5 = 0.28631;     % End-effector mass
+
+% Center of Mass for each link (meters, relative to base or prior joints)
+com1 = 0.07961;   % COM distance of Link 1 along x-axis
+com2 = 0.10027;   % COM distance of Link 2 from Joint 2
+com3 = 0.15288;   % COM distance of Link 3
+
+% Link Lengths (meters)
+L1 = 0.3;        % Length of Link 1
+L2 = 0.304;      % Length of Link 2
+H2 = 0.285;      % End-effector height
+
+% Gravitational Acceleration
+g = 9.81;
+
+% Actuator Torque Limits (Realistic values, Nm)
+max_torque = [50; 25];  % Adjust these values based on motor specs
+
+% Initialize Payload
+payload_mass = 0; 
+increment = 0.1;  % Payload increment (kg)
+
+% Torque Calculation Loop
+while true
+    % Torque at Joint 1 (cumulative weight of all links + payload)
+    torque_joint1 = (m1 * g * (L1/2)) + (m2 * g * (L1 + L2/2)) ...
+                  + (m3 * g * (L1 + L2 + com3)) + (payload_mass * g * (L1 + L2));
+    
+    % Torque at Joint 2 (link 2, link 3, and payload)
+    torque_joint2 = (m2 * g * (L2/2)) + (m3 * g * (L2 + com3)) + (payload_mass * g * L2);
+
+    % Check if torques exceed actuator limits
+    if torque_joint1 > max_torque(1) || torque_joint2 > max_torque(2)
+        break;
+    end
+
+    % Increment payload
+    payload_mass = payload_mass + increment;
+end
+
+% Display Results
+fprintf('Maximum payload capacity: %.2f kg\n', payload_mass - increment);
+
+```
+Maximum payload Capacity : 1.70kg
