@@ -37,7 +37,7 @@ show(robot)
 ### DH Parameters
 
 <p align="center">
-  <img src="DHparameters.jpeg" alt="DH parameters calculation)"style="width:40%; max-width:600px, height:40%;">
+  <img src="DH%20parameters.jpeg" alt="DH parameters calculation)"style="width:40%; max-width:600px, height:40%;">
 </p>
 
 ### MATLAB
