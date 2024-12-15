@@ -1,3 +1,8 @@
+# Future Work
+
+## End Effector Development
+Conventional end-effectors such as grippers and vacuum nozzles will not be suitable for the robot movements nor capable of realizing the proposed tasks such as liquid pouring, flask handeling, pick and place, etc. Therefore a development of custom end-effector will be necessary.
+
 ## Payload Estimation 
 Each link must be able to withstand the stresses that are imposed by the payload.  
 
@@ -13,5 +18,5 @@ $$\sigma = \frac{M \cdot c}{I}$$
 The bending stress 𝜎 must not exceed the yield strength of the link material:  
 𝜎 ≤ 𝜎yield
 
- Also this can be stimated by simulation software to use FEA method.
+ Also this can be estimated by using a simulation software that employs FEA method for analysis.
 
