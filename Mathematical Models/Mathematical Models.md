@@ -4,15 +4,6 @@
   <img src="Robot%20Model.jpeg" alt="Robot Model (Simulink)"style="width:90%; max-width:600px, height:90%;">
 </p>
 
-### Assembly and Movement
-
-
-<p align="center">
-  <img src="Robot%20Tree.jpeg" alt="Robot Tree (MATLAB)"style="width:40%; max-width:600px, height:40%;">
-</p>
-<p align="center">
-  <img src="Robot%20Movement.png" alt="Robot Tree (MATLAB)"style="width:70%; max-width:600px, height:70%;">
-</p>
 
 ### Rigid body tree
 ```
