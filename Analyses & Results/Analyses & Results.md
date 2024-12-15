@@ -28,6 +28,7 @@ For this demonstration a sample of 10000 random robot configurations has been us
 
 
 ## Simulation Results
+
 <p align="center">
 <a  href="https://youtu.be/6YlWMIfZ7P8" target="_blank">
     <img src="https://img.youtube.com/vi/6YlWMIfZ7P8/0.jpg" alt="Simulation Video" style="width:50%; max-width:600px, height:50%;">
@@ -36,13 +37,14 @@ For this demonstration a sample of 10000 random robot configurations has been us
 
 ## Kinematic Graphs
 ### Position Trajectory and Forward Kinematics
+
 <p align="center">
-  <img src="Position.jpeg" alt="Position Trajectory and Forward Kinematics" height = "600" width="600">
+  <img src="Position.jpeg" alt="Position Trajectory and Forward Kinematics" style="width:60%; max-width:600px, height:60%;">
 </p>
 
 ### Velocity Trajectory and Jacobian
 <p align="center">
-  <img src="Velocity.jpeg" alt="Velocity Trajectory and Jacobian" height = "600" width="600">
+  <img src="Velocity.jpeg" alt="Velocity Trajectory and Jacobian" style="width:60%; max-width:600px, height:60%;">
 </p>
 
 
