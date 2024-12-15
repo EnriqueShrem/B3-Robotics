@@ -16,13 +16,13 @@ The bending stress 𝜎 must not exceed the yield strength of the link material:
 ## Robot's Reach / Range of Motion
 The range of motion of the end effector, also known as robot's reach, can be found analytically but also demonstrated using software such as MATLAB:
 <p align="center">
-  <img src="range.png" alt="Inverse Kinematics (Simulink)"style="width:70%; max-width:600px, height:70%;">
+  <img src="range.png" alt="Inverse Kinematics (Simulink)"style="width:60%; max-width:600px, height:60%;">
 </p>
 <p align="center">
-  <img src="rangetop.png" alt="Inverse Kinematics (Simulink)"style="width:70%; max-width:600px, height:70%;">
+  <img src="rangetop.png" alt="Inverse Kinematics (Simulink)"style="width:60%; max-width:600px, height:60%;">
 </p>
 <p align="center">
-  <img src="rangefront.png" alt="Inverse Kinematics (Simulink)"style="width:70%; max-width:600px, height:70%;">
+  <img src="rangefront.png" alt="Inverse Kinematics (Simulink)"style="width:60%; max-width:600px, height:60%;">
 </p>
 For this demonstration a sample of 10000 random robot configurations has been used to plot the end effector position at each of these configurations.
 
