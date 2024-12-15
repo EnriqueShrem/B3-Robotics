@@ -39,6 +39,18 @@ show(robot)
   <img src="DH%20parameters.jpeg" alt="DH parameters calculation)"style="width:40%; max-width:600px, height:40%;">
 </p>
 
+Here's your matrix formatted as a Markdown table:
+
+
+| a   | alpha  | d   | theta             |
+|-----|--------|-----|-------------------|
+| 0   | 0      | L1  | 0                 |
+| L3  | 0      | L2  | theta1            |
+| 0   | π/2    | 0   | theta2 + π/2      |
+| L4  | π/2    | 0   | theta3 + π        |
+| 0   | 0      | 0   | theta4            |
+| 0   | 0      | L5  | 0                 |
+
 ### MATLAB
 
 ```
