@@ -23,6 +23,12 @@
   <img src="Forward%20Kinematics%20Simulink.jpeg" alt="Forward Kinematics (Simulink)"style="width:90%; max-width:600px, height:90%;">
 </p>
 
+### DH Parameters
+
+<p align="center">
+  <img src="DHparameters.jpeg" alt="DH parameters calculation)"style="width:40%; max-width:600px, height:40%;">
+</p>
+
 ### MATLAB
 
 ```
