@@ -39,5 +39,5 @@ Robot Movement:
   <img src="Design%20Gallery/robotmov1.png" style="width:50%; height:50%;">
 </p>
 <p align="center">
-  <img src="Design%20Gallery/robotmov.png" style="width:50%; height:50%;">
+  <img src="Design%20Gallery/robotmov.png" style="width:30%; height:30%;">
 </p>
