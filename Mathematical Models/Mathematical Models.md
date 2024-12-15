@@ -85,9 +85,4 @@ T5 = simplify(T5)
   <img src="Trayectory%20Simulink.jpeg" alt="Inverse Kinematics (Simulink)"style="width:50%; max-width:600px, height:50%;">
 </p>
 
-## Robot's Reach / Range of Motion
-The range of motion of the end effector, also known as robot's reach, can be found analytically but also demonstrated using software such as MATLAB:
-<p align="center">
-  <img src="Robot%20Reach.png" alt="Inverse Kinematics (Simulink)"style="width:70%; max-width:600px, height:70%;">
-</p>
-For this demonstration a sample of 10000 random robot configurations has been used to plot the end effector position at each of these configurations.
+
