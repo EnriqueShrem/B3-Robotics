@@ -2,7 +2,7 @@
 
 ## Robot's Block Diagram (Simulink)
 <p align="center">
-  <img src="RobotModel.jpeg" alt="Robot Model (Simulink)"style="width:90%; max-width:600px, height:90%;">
+  <img src="RobotModel.jpg" alt="Robot Model (Simulink)"style="width:90%; max-width:600px, height:90%;">
 </p>
 
 ## Forward Kinematics
