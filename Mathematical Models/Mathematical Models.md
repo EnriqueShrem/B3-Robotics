@@ -24,7 +24,7 @@
 | L3  | 0      | L2  | theta1            |
 | 0   | π/2    | 0   | theta2 + π/2      |
 | L4  | π/2    | 0   | theta3 + π        |
-| 0   | 0      | 0   | theta4            |
+| 0   | 0      | D   | theta4            |
 | 0   | 0      | L5  | 0                 |
 
 MATLAB
