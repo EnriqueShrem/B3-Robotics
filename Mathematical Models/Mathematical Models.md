@@ -39,14 +39,14 @@ function T = DHTransformationMat(a, alpha, d, theta)
 end
 
 syms theta1 theta2 theta3 theta4 ;
-syms L1 L2 L3 L4 L5 L6;
+syms L1 L2 L3 L4 L5 D;
 
 % Robot DH Table
 DH_table = [0,      0,      L1,     0;
             L3,     0,      L2,     theta1;
             0,      pi/2,   0 ,     theta2 + pi/2;
             L4,     pi/2,   0,      theta3 + pi;
-            0,      0,      0,      theta4;
+            0,      0,      D,      theta4;
             0,      0,      L5      0];
 
 T01 = DHTransformationMat(DH_table(1, 1), DH_table(1, 2), DH_table(1, 3), DH_table(1, 4));
