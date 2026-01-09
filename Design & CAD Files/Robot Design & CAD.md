@@ -31,7 +31,7 @@ Links:
 
 ## Assembly Drawing:
 <p align="center">
-  <img src="Design%20Gallery/Drawing.png" style="width:80%; height:80%;">
+  <img src="Design%20Gallery/Drawing.PNG" style="width:80%; height:80%;">
 </p>
 
 [See CAD Files](CAD%20Files)
